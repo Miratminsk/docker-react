@@ -1,0 +1,19 @@
+# Specify a base image
+FROM node:alpine
+
+# Set up default folder to store files inside container
+WORKDIR '/app'
+
+# We need only package.json file to execute npm install.
+# If we change other files we will not run npm install. It saves time.
+# The order matter.
+COPY package.json .
+
+# Download and install a dependency
+RUN npm install
+
+# Copy all files from current directory to the container
+COPY . .
+
+# Tell the image what to do when it starts as a container
+CMD ["npm", "run", "start"]
