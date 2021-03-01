@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="28753" started-at="2020-07-31T20:34:32 CDT" finished-at="2020-07-31T20:35:01 CDT">
+    <groups>
+    </groups>
+    <test name="/Users/miratrahmanov/AppiumFramework/Java/PageObjectModel" duration-ms="28753" started-at="2020-07-31T20:34:32 CDT" finished-at="2020-07-31T20:35:01 CDT">
+      <class name="org.pom.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="12132" started-at="2020-07-31T20:34:32 CDT" finished-at="2020-07-31T20:34:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="12248" started-at="2020-07-31T20:34:32 CDT" finished-at="2020-07-31T20:34:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="11895" started-at="2020-07-31T20:34:32 CDT" finished-at="2020-07-31T20:34:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="11466" started-at="2020-07-31T20:34:32 CDT" finished-at="2020-07-31T20:34:44 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageLoginTest(java.lang.String, java.lang.String)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageLoginTest" duration-ms="6471" started-at="2020-07-31T20:34:44 CDT" data-provider="getData" finished-at="2020-07-31T20:34:50 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[miratminsk@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password123!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLoginTest -->
+        <test-method status="PASS" signature="loginPageLoginTest1()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageLoginTest1" duration-ms="4885" started-at="2020-07-31T20:34:44 CDT" finished-at="2020-07-31T20:34:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLoginTest1 -->
+        <test-method status="PASS" signature="loginPageLoginTest2()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageLoginTest2" duration-ms="5311" started-at="2020-07-31T20:34:44 CDT" finished-at="2020-07-31T20:34:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLoginTest2 -->
+        <test-method status="PASS" signature="loginPageLoginTest3()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageLoginTest3" duration-ms="7276" started-at="2020-07-31T20:34:44 CDT" finished-at="2020-07-31T20:34:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLoginTest3 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="127" started-at="2020-07-31T20:34:49 CDT" finished-at="2020-07-31T20:34:49 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageLoginTest1 status=SUCCESS method=LoginPageTest.loginPageLoginTest1()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="3169" started-at="2020-07-31T20:34:49 CDT" finished-at="2020-07-31T20:34:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="109" started-at="2020-07-31T20:34:49 CDT" finished-at="2020-07-31T20:34:50 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageLoginTest2 status=SUCCESS method=LoginPageTest.loginPageLoginTest2()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="2879" started-at="2020-07-31T20:34:50 CDT" finished-at="2020-07-31T20:34:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="116" started-at="2020-07-31T20:34:50 CDT" finished-at="2020-07-31T20:34:50 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageLoginTest status=SUCCESS method=LoginPageTest.loginPageLoginTest(java.lang.String, java.lang.String)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="3823" started-at="2020-07-31T20:34:50 CDT" finished-at="2020-07-31T20:34:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="110" started-at="2020-07-31T20:34:52 CDT" finished-at="2020-07-31T20:34:52 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageLoginTest3 status=SUCCESS method=LoginPageTest.loginPageLoginTest3()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="3867" started-at="2020-07-31T20:34:52 CDT" finished-at="2020-07-31T20:34:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageTitleTest" duration-ms="14" started-at="2020-07-31T20:34:52 CDT" finished-at="2020-07-31T20:34:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="97" started-at="2020-07-31T20:34:52 CDT" finished-at="2020-07-31T20:34:52 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageTitleTest status=SUCCESS method=LoginPageTest.loginPageTitleTest()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="4040" started-at="2020-07-31T20:34:52 CDT" finished-at="2020-07-31T20:34:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest1()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageTitleTest1" duration-ms="58" started-at="2020-07-31T20:34:52 CDT" finished-at="2020-07-31T20:34:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest1 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="94" started-at="2020-07-31T20:34:53 CDT" finished-at="2020-07-31T20:34:53 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageTitleTest1 status=SUCCESS method=LoginPageTest.loginPageTitleTest1()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="8017" started-at="2020-07-31T20:34:53 CDT" finished-at="2020-07-31T20:35:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest2()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageTitleTest2" duration-ms="17" started-at="2020-07-31T20:34:54 CDT" finished-at="2020-07-31T20:34:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest2 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="88" started-at="2020-07-31T20:34:54 CDT" finished-at="2020-07-31T20:34:54 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageTitleTest2 status=SUCCESS method=LoginPageTest.loginPageTitleTest2()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="5190" started-at="2020-07-31T20:34:54 CDT" finished-at="2020-07-31T20:35:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest3()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageTitleTest3" duration-ms="5" started-at="2020-07-31T20:34:56 CDT" finished-at="2020-07-31T20:34:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest3 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="163" started-at="2020-07-31T20:34:56 CDT" finished-at="2020-07-31T20:34:56 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageTitleTest3 status=SUCCESS method=LoginPageTest.loginPageTitleTest3()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="setUp" is-config="true" duration-ms="4434" started-at="2020-07-31T20:34:56 CDT" finished-at="2020-07-31T20:35:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageValidateCRMImageTest()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageValidateCRMImageTest" duration-ms="28" started-at="2020-07-31T20:34:56 CDT" finished-at="2020-07-31T20:34:56 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageValidateCRMImageTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="82" started-at="2020-07-31T20:34:56 CDT" finished-at="2020-07-31T20:34:56 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageValidateCRMImageTest status=SUCCESS method=LoginPageTest.loginPageValidateCRMImageTest()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginPageValidateCRMImageTest2()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageValidateCRMImageTest2" duration-ms="64" started-at="2020-07-31T20:35:00 CDT" finished-at="2020-07-31T20:35:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageValidateCRMImageTest2 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="86" started-at="2020-07-31T20:35:00 CDT" finished-at="2020-07-31T20:35:00 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageValidateCRMImageTest2 status=SUCCESS method=LoginPageTest.loginPageValidateCRMImageTest2()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginPageValidateCRMImageTest3()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageValidateCRMImageTest3" duration-ms="29" started-at="2020-07-31T20:35:00 CDT" finished-at="2020-07-31T20:35:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageValidateCRMImageTest3 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="84" started-at="2020-07-31T20:35:00 CDT" finished-at="2020-07-31T20:35:00 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageValidateCRMImageTest3 status=SUCCESS method=LoginPageTest.loginPageValidateCRMImageTest3()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginPageValidateCRMImageTest1()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="loginPageValidateCRMImageTest1" duration-ms="37" started-at="2020-07-31T20:35:01 CDT" finished-at="2020-07-31T20:35:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageValidateCRMImageTest1 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="93" started-at="2020-07-31T20:35:01 CDT" finished-at="2020-07-31T20:35:01 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageValidateCRMImageTest1 status=SUCCESS method=LoginPageTest.loginPageValidateCRMImageTest1()[pri:0, instance:org.pom.testcases.LoginPageTest@6ddf90b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.pom.testcases.LoginPageTest -->
+    </test> <!-- /Users/miratrahmanov/AppiumFramework/Java/PageObjectModel -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

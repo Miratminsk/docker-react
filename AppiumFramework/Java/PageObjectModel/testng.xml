@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="methods" thread-count="4">
+    <listeners>
+        <listener class-name="org.pom.extentreports.ExtentReportsNG"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="/Users/miratrahmanov/AppiumFramework/Java/PageObjectModel">
+        <classes>
+            <class name="org.pom.testcases.LoginPageTest"/>
+        </classes>
+    </test>
+</suite>
